@@ -1,0 +1,199 @@
+[
+  {
+    "id": "paddy",
+    "name": "Paddy (Rice)",
+    "malayalam": "നെല്ല്",
+    "season": ["Virippu (June-Nov)", "Mundakan (Sep-Jan)", "Puncha (Dec-Apr)"],
+    "soil": "Clay loam, alluvial",
+    "water": "High (1200-2000mm)",
+    "temperature": "20-35°C",
+    "common_diseases": ["Blast", "Brown Spot", "Sheath Blight", "Bacterial Leaf Blight"],
+    "pests": ["Stem Borer", "Leaf Folder", "Brown Plant Hopper", "Gall Midge"],
+    "fertilizers": {
+      "NPK": "60:30:30 kg/ha",
+      "organic": "FYM 5 tonnes/ha",
+      "schedule": "Basal + 2 splits at 25 and 50 days"
+    },
+    "yield": "3-5 tonnes/ha",
+    "duration_days": 120,
+    "tips": [
+      "Use certified seeds like Jyothi, Uma, Haritha varieties",
+      "Maintain 5cm water level during tillering",
+      "Drain fields 10 days before harvest",
+      "Use light traps for pest monitoring"
+    ],
+    "government_support": ["Paddy cultivation subsidy", "MSP Rs.2183/quintal", "Karshaka crop insurance"]
+  },
+  {
+    "id": "coconut",
+    "name": "Coconut",
+    "malayalam": "തേങ്ങ",
+    "season": ["Year-round, best planting May-June"],
+    "soil": "Sandy loam, laterite, alluvial",
+    "water": "Moderate (1500mm/year)",
+    "temperature": "20-32°C",
+    "common_diseases": ["Bud Rot", "Leaf Rot", "Root Wilt", "Stem Bleeding"],
+    "pests": ["Rhinoceros Beetle", "Red Palm Weevil", "Eriophyid Mite", "Coconut Caterpillar"],
+    "fertilizers": {
+      "NPK": "500:320:1200 g/palm/year",
+      "organic": "50kg compost + 2kg neem cake per palm",
+      "micronutrients": "1kg dolomite per palm"
+    },
+    "yield": "80-100 nuts/palm/year",
+    "duration_days": 365,
+    "tips": [
+      "Plant at 7.5m x 7.5m spacing",
+      "Use West Coast Tall or Hybrid varieties",
+      "Drip irrigation increases yield by 25%",
+      "Apply biofertilizers — Azospirillum and Phosphobacteria"
+    ],
+    "government_support": ["Coconut Development Board subsidy", "Replanting programme", "Coconut Rejuvenation scheme"]
+  },
+  {
+    "id": "banana",
+    "name": "Banana (Nendran)",
+    "malayalam": "നേന്ദ്രപ്പഴം",
+    "season": ["Year-round, best planting June-July or December-January"],
+    "soil": "Well-drained loam",
+    "water": "High (1200-2200mm)",
+    "temperature": "15-35°C",
+    "common_diseases": ["Panama Wilt", "Sigatoka (Yellow/Black)", "Bunchy Top", "Bacterial Wilt"],
+    "pests": ["Pseudostem Weevil", "Nematodes", "Banana Aphids", "Thrips"],
+    "fertilizers": {
+      "NPK": "200:60:300 g/plant",
+      "organic": "10kg FYM + 250g neem cake per plant",
+      "schedule": "4 splits at planting, 2, 4, and 6 months"
+    },
+    "yield": "15-20 kg/bunch (Nendran)",
+    "duration_days": 330,
+    "tips": [
+      "Use suckers from disease-free mother plants",
+      "Tissue culture plants give 25% higher yield",
+      "Remove male bud after full bunch emergence",
+      "Earth up the plant base for support"
+    ],
+    "government_support": ["Horticulture Mission subsidy", "Nendran Banana development scheme"]
+  },
+  {
+    "id": "rubber",
+    "name": "Rubber",
+    "malayalam": "റബ്ബർ",
+    "season": ["Planting June-July with onset of monsoon"],
+    "soil": "Laterite, sandy loam",
+    "water": "Moderate (2000mm/year)",
+    "temperature": "25-34°C",
+    "common_diseases": ["Abnormal Leaf Fall (Phytophthora)", "Powdery Mildew", "Bird's Eye Spot", "Corynespora Leaf Fall"],
+    "pests": ["Lace Bug", "Thrips", "Mealybugs", "Scale Insects"],
+    "fertilizers": {
+      "schedule": "Apply N:P:K as per Rubber Board recommendation — 100:100:150 g/tree/year",
+      "organic": "5kg compost per tree"
+    },
+    "yield": "1200-1500 kg latex/ha/year",
+    "duration_days": 2190,
+    "tips": [
+      "Maintain 2.5m x 4.5m spacing (444 plants/ha)",
+      "Start tapping after 5-7 years when girth reaches 50cm",
+      "Use RRII 105, GT 1, PB 86 clones",
+      "Apply stimulants to increase yield by 20-30%"
+    ],
+    "government_support": ["Rubber Board subsidy", "Replanting subsidy Rs.15000/ha", "Price stabilization fund"]
+  },
+  {
+    "id": "pepper",
+    "name": "Black Pepper",
+    "malayalam": "കുരുമുളക്",
+    "season": ["Planting May-June"],
+    "soil": "Red loam, laterite",
+    "water": "Moderate (1500-2500mm)",
+    "temperature": "10-40°C",
+    "common_diseases": ["Phytophthora Foot Rot (Quick Wilt)", "Anthracnose", "Pollu Disease", "Stunt Disease"],
+    "pests": ["Pepper Weevil", "Pollu Beetle", "Scale Insects", "Nematodes"],
+    "fertilizers": {
+      "NPK": "100:40:140 g/vine/year",
+      "organic": "10kg compost per vine"
+    },
+    "yield": "1-2 kg dry pepper/vine",
+    "duration_days": 365,
+    "tips": [
+      "Use Panniyur 1, Karimunda, Pournami varieties",
+      "Train on standards like Erythrina (Murikku)",
+      "Soil drenching with Bordeaux mixture prevents foot rot",
+      "Harvest when 1-2 berries per spike turn red"
+    ],
+    "government_support": ["Spices Board subsidy", "Pepper rejuvenation programme"]
+  },
+  {
+    "id": "tapioca",
+    "name": "Tapioca (Cassava)",
+    "malayalam": "കപ്പ",
+    "season": ["April-May (summer), October-November"],
+    "soil": "Sandy loam, laterite",
+    "water": "Low-moderate (750-1500mm)",
+    "temperature": "20-35°C",
+    "common_diseases": ["Cassava Mosaic Disease", "Bacterial Blight", "Root Rot", "Leaf Spot"],
+    "pests": ["Cassava Mealy Bug", "White Fly", "Thrips", "Red Mites"],
+    "fertilizers": {
+      "NPK": "100:100:100 kg/ha",
+      "organic": "125g neem cake per plant"
+    },
+    "yield": "25-40 tonnes/ha",
+    "duration_days": 270,
+    "tips": [
+      "Plant stakes of 20-25cm length",
+      "Use Sree Vijaya, Sree Sahya, H-226 varieties",
+      "Intercrop with cowpea or groundnut",
+      "Harvest at 7-10 months for good starch content"
+    ],
+    "government_support": ["CTRI technical support", "Tribal farmers subsidy"]
+  },
+  {
+    "id": "vegetable",
+    "name": "Vegetables (Kerala Mixed)",
+    "malayalam": "പച്ചക്കറി",
+    "season": ["Year-round with proper variety selection"],
+    "varieties": {
+      "bitter_gourd": "Priya, Arka Harit, Preethi",
+      "ridge_gourd": "Pusa Nasdar, CO-1",
+      "snake_gourd": "CO-1, Thiruvananthapuram Long",
+      "amaranthus": "CO-1, Arun, Arka Arunima",
+      "okra": "Arka Anamika, Salketha Long, Varsha Uphar"
+    },
+    "common_diseases": ["Downy Mildew", "Powdery Mildew", "Damping Off", "Viral Diseases"],
+    "pests": ["Fruit Borer", "Aphids", "White Fly", "Thrips", "Red Pumpkin Beetle"],
+    "fertilizers": {
+      "NPK": "60:30:30 kg/ha (per crop cycle)",
+      "organic": "2 tonnes FYM per 0.1 ha"
+    },
+    "tips": [
+      "Use raised beds in high rainfall areas",
+      "Practice crop rotation to reduce soil-borne diseases",
+      "Yellow sticky traps for white fly management",
+      "Grow green manures — Dhaincha, Sunhemp as intercrops"
+    ],
+    "government_support": ["Vegetable Development Scheme", "Protected cultivation subsidy (50%)"]
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger",
+    "malayalam": "ഇഞ്ചി",
+    "season": ["April-May planting, harvest November-January"],
+    "soil": "Well-drained sandy loam or clay loam",
+    "water": "Moderate (1500-2000mm)",
+    "temperature": "19-29°C",
+    "common_diseases": ["Soft Rot (Pythium)", "Bacterial Wilt", "Leaf Spot", "Chlorotic Fleck Virus"],
+    "pests": ["Shoot Borer", "Rhizome Fly", "Nematodes", "Leaf Roller"],
+    "fertilizers": {
+      "NPK": "75:50:50 kg/ha",
+      "organic": "40 tonnes FYM/ha"
+    },
+    "yield": "15-20 tonnes green ginger/ha",
+    "duration_days": 210,
+    "tips": [
+      "Use IISR Varada, IISR Mahima, Rio-de-Janeiro varieties",
+      "Treat seed rhizomes with Mancozeb before planting",
+      "Mulch with green leaves after planting",
+      "Provide shade (50%) during initial growth"
+    ],
+    "government_support": ["Spices Board development programme", "Seed rhizome subsidy (50%)"]
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "blast",
+    "name": "Rice Blast",
+    "malayalam": "ബ്ലാസ്റ്റ്",
+    "crop": "paddy",
+    "type": "fungal",
+    "symptoms": [
+      "Diamond-shaped lesions on leaves with gray center and brown border",
+      "White or gray patches on panicles (neck rot)",
+      "Rotting at panicle neck causing empty grains"
+    ],
+    "conditions": "High humidity (>90%), temperature 25-28°C, excess nitrogen",
+    "control": {
+      "organic": [
+        "Spray Pseudomonas fluorescens (10g/litre) at 15-day intervals",
+        "Silica-rich amendments to strengthen cell walls"
+      ],
+      "chemical": [
+        "Tricyclazole 75WP @ 0.6g/litre or Carbendazim 50WP @ 1g/litre",
+        "Spray at boot leaf and heading stage"
+      ],
+      "preventive": [
+        "Avoid excess nitrogen application",
+        "Use resistant varieties: CO-51, Jyothi, Haritha",
+        "Drain water from field when disease appears"
+      ]
+    },
+    "severity": "high"
+  },
+  {
+    "id": "bph",
+    "name": "Brown Plant Hopper (BPH)",
+    "malayalam": "തവിട്ട് ചാഴി",
+    "crop": "paddy",
+    "type": "pest",
+    "symptoms": [
+      "Circular 'hopper burn' patches of yellowing/deadening",
+      "Honeydew deposits on leaf sheath",
+      "Insects visible at base of plant when disturbed"
+    ],
+    "conditions": "Dense crop canopy, excess nitrogen, continuous flooding",
+    "control": {
+      "organic": [
+        "Set up light traps (1/ha) during 6–10 PM",
+        "Release Mirid bug predators",
+        "Spray neem seed kernel extract (5%)"
+      ],
+      "chemical": [
+        "Buprofezin 25SC @ 1ml/litre or Imidacloprid 200SL @ 0.25ml/litre",
+        "Direct spray at base of plant"
+      ],
+      "preventive": [
+        "Avoid excess nitrogen",
+        "Drain fields for 5-7 days at tillering",
+        "Grow resistant varieties: Bala, Bhadra, Jyothi"
+      ]
+    },
+    "severity": "high"
+  },
+  {
+    "id": "foot-rot-pepper",
+    "name": "Phytophthora Foot Rot (Quick Wilt)",
+    "malayalam": "ക്ഷിപ്ര വാട്ടം",
+    "crop": "pepper",
+    "type": "fungal",
+    "symptoms": [
+      "Sudden wilting and collapse of the vine",
+      "Blackening at collar region of vine",
+      "Dark brown rot spreading upward",
+      "Berries and leaves fall rapidly"
+    ],
+    "conditions": "Waterlogged soil, monsoon season, poor drainage",
+    "control": {
+      "organic": [
+        "Drench base with Trichoderma viride (10g/litre) before monsoon",
+        "Apply neem cake 200g per vine to soil"
+      ],
+      "chemical": [
+        "Soil drench with Bordeaux mixture (1%) or Metalaxyl-M + Mancozeb",
+        "Copper oxychloride spray on collar region"
+      ],
+      "preventive": [
+        "Ensure proper drainage around pepper vines",
+        "Apply Trichoderma enriched compost before monsoon",
+        "Never allow water to stagnate at base",
+        "Roguing and removal of infected vines"
+      ]
+    },
+    "severity": "very_high"
+  },
+  {
+    "id": "rhinoceros-beetle",
+    "name": "Rhinoceros Beetle",
+    "malayalam": "കൊമ്പൻ വണ്ട്",
+    "crop": "coconut",
+    "type": "pest",
+    "symptoms": [
+      "V-shaped cuts on unopened fronds",
+      "Holes in crown region of palm",
+      "Damage to spadix and nuts"
+    ],
+    "conditions": "Piles of organic matter, decaying logs nearby",
+    "control": {
+      "organic": [
+        "Baculovirus oryctes (10ml/litre) injected into crown holes",
+        "Hook out and kill beetles from crown",
+        "Apply Beauveria bassiana in crown and compost pits"
+      ],
+      "chemical": [
+        "Mix carbofuran granules (5g) with sand and place in crown",
+        "Swab crown with coal tar + kerosene (1:2)"
+      ],
+      "preventive": [
+        "Remove decaying wood from near palms",
+        "Fill crown with sand + naphthalene balls",
+        "Set up pheromone traps"
+      ]
+    },
+    "severity": "high"
+  },
+  {
+    "id": "bunchy-top",
+    "name": "Banana Bunchy Top Virus",
+    "malayalam": "ബഞ്ചി ടോപ്",
+    "crop": "banana",
+    "type": "viral",
+    "symptoms": [
+      "Leaves narrow, erect, with marginal yellowing",
+      "Dark green streaks on midrib and petioles",
+      "Plant remains stunted, no bunch formation"
+    ],
+    "conditions": "Spread by banana aphid (Pentalonia nigronervosa)",
+    "control": {
+      "organic": [
+        "No cure — rogue out infected plants immediately",
+        "Spray neem oil (3%) to control aphid vectors"
+      ],
+      "chemical": [
+        "Dimethoate 30EC @ 2ml/litre sprayed on healthy plants to kill aphids",
+        "Imidacloprid 200SL @ 0.25ml/litre"
+      ],
+      "preventive": [
+        "Use virus-indexed suckers or tissue culture plants",
+        "Uproot and destroy infected plants",
+        "Do not replant suckers from infected plants",
+        "Maintain field hygiene"
+      ]
+    },
+    "severity": "very_high"
+  },
+  {
+    "id": "cassava-mosaic",
+    "name": "Cassava Mosaic Disease (CMD)",
+    "malayalam": "കപ്പ മൊസൈക്ക്",
+    "crop": "tapioca",
+    "type": "viral",
+    "symptoms": [
+      "Mosaic pattern (yellow-green patches) on leaves",
+      "Leaf distortion and curling",
+      "Stunted plant growth and reduced tuber yield"
+    ],
+    "conditions": "Spread by white fly (Bemisia tabaci)",
+    "control": {
+      "organic": [
+        "Yellow sticky traps to trap white flies (2/0.1ha)",
+        "Neem oil (5ml/litre) spray"
+      ],
+      "chemical": [
+        "Imidacloprid 200SL to control whitefly vectors",
+        "No chemical cure for the virus itself"
+      ],
+      "preventive": [
+        "Use disease-free planting material from certified nurseries",
+        "Rogue out infected plants",
+        "Use resistant varieties H-226, Sree Sahya, Sree Prakash"
+      ]
+    },
+    "severity": "high"
+  },
+  {
+    "id": "soft-rot-ginger",
+    "name": "Soft Rot / Pythium Rhizome Rot",
+    "malayalam": "ഇഞ്ചി ചീഞ്ഞഴുകൽ",
+    "crop": "ginger",
+    "type": "fungal",
+    "symptoms": [
+      "Water-soaked, mushy rhizome at collar region",
+      "Yellowing of leaves starting from lower leaves upward",
+      "Foul smell from rotting rhizomes",
+      "Collapse of pseudostem"
+    ],
+    "conditions": "Waterlogged soil, high humidity, infected seed rhizomes",
+    "control": {
+      "organic": [
+        "Drench with Trichoderma harzianum (10g/litre of water)",
+        "Treat seed rhizomes with bioagents before planting"
+      ],
+      "chemical": [
+        "Metalaxyl (Ridomil) 8G @ 80g/pit applied at 30-day intervals",
+        "Soil drench with Copper oxychloride 3g/litre"
+      ],
+      "preventive": [
+        "Treat seed rhizomes with Metalaxyl before planting",
+        "Ensure good drainage in beds",
+        "Avoid planting in disease-prone areas",
+        "Soil solarization before planting"
+      ]
+    },
+    "severity": "very_high"
+  }
+]

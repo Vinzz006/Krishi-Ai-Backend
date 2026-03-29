@@ -1,0 +1,113 @@
+[
+  {
+    "commodity": "Paddy (Common)",
+    "malayalam": "നെല്ല്",
+    "market": "Thrissur",
+    "price_per_quintal": 2183,
+    "msp": 2183,
+    "change": 0,
+    "unit": "quintal",
+    "last_updated": "2026-03-28"
+  },
+  {
+    "commodity": "Coconut (Copra)",
+    "malayalam": "ഉണക്കത്തേങ്ങ",
+    "market": "Kollam",
+    "price_per_quintal": 13800,
+    "msp": 11582,
+    "change": 200,
+    "unit": "quintal",
+    "last_updated": "2026-03-28"
+  },
+  {
+    "commodity": "Coconut (Ball)",
+    "malayalam": "തേങ്ങ",
+    "market": "Kozhikode",
+    "price_per_100_nuts": 2450,
+    "change": 50,
+    "unit": "100 nuts",
+    "last_updated": "2026-03-28"
+  },
+  {
+    "commodity": "Black Pepper",
+    "malayalam": "കുരുമുളക്",
+    "market": "Kochi",
+    "price_per_quintal": 68000,
+    "msp": 0,
+    "change": -500,
+    "unit": "quintal",
+    "last_updated": "2026-03-28"
+  },
+  {
+    "commodity": "Rubber (RSS4)",
+    "malayalam": "റബ്ബർ",
+    "market": "Kottayam",
+    "price_per_kg": 195,
+    "change": 3,
+    "unit": "kg",
+    "last_updated": "2026-03-28"
+  },
+  {
+    "commodity": "Banana (Nendran)",
+    "malayalam": "നേന്ദ്രക്കായ",
+    "market": "Thiruvananthapuram",
+    "price_per_kg": 55,
+    "change": 5,
+    "unit": "kg",
+    "last_updated": "2026-03-28"
+  },
+  {
+    "commodity": "Tapioca",
+    "malayalam": "കപ്പ",
+    "market": "Thrissur",
+    "price_per_kg": 28,
+    "change": -2,
+    "unit": "kg",
+    "last_updated": "2026-03-28"
+  },
+  {
+    "commodity": "Ginger (Fresh)",
+    "malayalam": "ഇഞ്ചി",
+    "market": "Kozhikode",
+    "price_per_kg": 85,
+    "change": 10,
+    "unit": "kg",
+    "last_updated": "2026-03-28"
+  },
+  {
+    "commodity": "Bitter Gourd",
+    "malayalam": "പാവക്ക",
+    "market": "Ernakulam",
+    "price_per_kg": 45,
+    "change": -5,
+    "unit": "kg",
+    "last_updated": "2026-03-28"
+  },
+  {
+    "commodity": "Snake Gourd",
+    "malayalam": "പടവലം",
+    "market": "Palakkad",
+    "price_per_kg": 35,
+    "change": 0,
+    "unit": "kg",
+    "last_updated": "2026-03-28"
+  },
+  {
+    "commodity": "Tomato",
+    "malayalam": "തക്കാളി",
+    "market": "Ernakulam",
+    "price_per_kg": 30,
+    "change": -8,
+    "unit": "kg",
+    "last_updated": "2026-03-28"
+  },
+  {
+    "commodity": "Raw Cashew",
+    "malayalam": "കശുമാങ്ങ",
+    "market": "Kollam",
+    "price_per_kg": 120,
+    "change": 5,
+    "unit": "kg",
+    "last_updated": "2026-03-28"
+  }
+]

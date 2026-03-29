@@ -1,0 +1,111 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "malayalam": "പ്രധാനമന്ത്രി കിസാൻ സമ്മാൻ നിധി",
+    "type": "Central",
+    "benefit": "Rs. 6,000 per year (3 installments of Rs. 2,000)",
+    "eligibility": "All small and marginal farmer families with cultivable land",
+    "how_to_apply": "Visit CSC (Jan Seva Kendra) or apply online at pmkisan.gov.in",
+    "documents": ["Aadhaar Card", "Bank Passbook", "Land Records (Patta)"],
+    "deadline": "Ongoing",
+    "contact": "1800-115-526 (toll-free)"
+  },
+  {
+    "id": "fasal-bima",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "malayalam": "ഫസൽ ബീമ യോജന",
+    "type": "Central",
+    "benefit": "Crop insurance against natural calamities — loss paid at actual market value",
+    "eligibility": "All farmers growing notified crops in notified areas",
+    "premium": "Kharif: 2%, Rabi: 1.5%, Horticulture: 5% of sum insured",
+    "how_to_apply": "Through banks, CSC centers, insurance company agents",
+    "documents": ["Aadhaar", "Bank Account", "Land Records", "Sowing Certificate"],
+    "deadline": "Within 2 weeks of sowing",
+    "contact": "14447 or agri.kerala.gov.in"
+  },
+  {
+    "id": "kisan-credit",
+    "name": "Kisan Credit Card (KCC)",
+    "malayalam": "കിസാൻ ക്രെഡിറ്റ് കാർഡ്",
+    "type": "Central",
+    "benefit": "Short-term credit up to Rs. 3 lakh at 4% interest for crop cultivation",
+    "eligibility": "Farmers, tenant farmers, SHG members engaged in farming",
+    "how_to_apply": "Nearest bank branch (SBI, Kerala Bank, Cooperative Bank)",
+    "documents": ["Identity Proof", "Land Records", "Passport Photo"],
+    "deadline": "Ongoing",
+    "contact": "Nearest bank or 1800-180-1111"
+  },
+  {
+    "id": "kerala-karshaka",
+    "name": "Karshaka Pension Scheme (Kerala)",
+    "malayalam": "കർഷക പെൻഷൻ",
+    "type": "State",
+    "benefit": "Rs. 1,100 per month pension for aged farmers",
+    "eligibility": "Kerala farmers above 60 years with land in their name",
+    "how_to_apply": "Krishi Bhavan or online at edistrict.kerala.gov.in",
+    "documents": ["Age Proof", "Land Records", "Bank Account", "Ration Card"],
+    "deadline": "Ongoing — apply before December",
+    "contact": "Nearest Krishi Bhavan or 0471-2322528"
+  },
+  {
+    "id": "krishi-bhavan-support",
+    "name": "Kerala Karshaka Sahayi (Free Seeds & Saplings)",
+    "malayalam": "കൃഷി ഭവൻ വിത്ത് സഹായം",
+    "type": "State",
+    "benefit": "Free/subsidized seeds, saplings, biofertilizers, and planting material",
+    "eligibility": "All farmers registered in Kerala",
+    "how_to_apply": "Visit nearest Krishi Bhavan with land records",
+    "documents": ["Aadhaar", "Land Records", "Ration Card"],
+    "deadline": "Seasonal — apply before monsoon (May) and winter (Oct)",
+    "contact": "Nearest Krishi Bhavan"
+  },
+  {
+    "id": "coconut-development",
+    "name": "Coconut Development Board Subsidies",
+    "malayalam": "കൊക്കോ നട്ടിൽ ബോർഡ് സഹായം",
+    "type": "Central (Board)",
+    "benefit": "Subsidy for coconut replanting Rs.40/plant, irrigation Rs.10,000/ha, mechanization 40%",
+    "eligibility": "Coconut farmers with 0.1 ha or more plantation",
+    "how_to_apply": "Online at coconutboard.gov.in or visit CDB regional office",
+    "documents": ["Land Records", "Bank Account", "Plantation Details"],
+    "deadline": "Ongoing",
+    "contact": "0484-2377266 or coconutboard.gov.in"
+  },
+  {
+    "id": "rubber-replanting",
+    "name": "Rubber Board Replanting Subsidy",
+    "malayalam": "റബ്ബർ ബോർഡ് സഹായം",
+    "type": "Central (Board)",
+    "benefit": "Rs. 15,000/ha for replanting old rubber with new clones + free clone plants",
+    "eligibility": "Rubber farmers with plants above 25 years or low-yielding plantations",
+    "how_to_apply": "Rubber Board regional office or rubberboard.org.in",
+    "documents": ["Patta", "Age Certificate of Trees", "Bank Account"],
+    "deadline": "Before May 31 each year",
+    "contact": "0481-2330294 or 1800-425-7897"
+  },
+  {
+    "id": "agri-mechanization",
+    "name": "Agricultural Mechanization Scheme",
+    "malayalam": "കൃഷി യന്ത്രവൽക്കരണ പദ്ധതി",
+    "type": "State",
+    "benefit": "50% subsidy (up to Rs.75,000) on tractors, transplanters, harvesters, power tillers",
+    "eligibility": "Individual farmers and FPOs registered in Kerala",
+    "how_to_apply": "Krishi Bhavan or online at agrikerala.gov.in",
+    "documents": ["Aadhaar", "Land Records", "Bank Account", "Farmer Registration"],
+    "deadline": "Limited — check local Krishi Bhavan",
+    "contact": "0471-2323585 or agrikerala.gov.in"
+  },
+  {
+    "id": "soil-health-card",
+    "name": "Soil Health Card Scheme",
+    "malayalam": "മണ്ണ് ആരോഗ്യ കാർഡ്",
+    "type": "Central",
+    "benefit": "Free soil testing and customized fertilizer recommendations",
+    "eligibility": "All farmers",
+    "how_to_apply": "Nearest Krishi Bhavan or Soil Testing Lab",
+    "documents": ["Aadhaar", "Land Details"],
+    "deadline": "Ongoing",
+    "contact": "soilhealth.dac.gov.in or nearest Krishi Bhavan"
+  }
+]
